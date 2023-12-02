@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254532991107",
+    "project_id": "next-cut",
+    "storage_bucket": "next-cut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254532991107:android:ebf588791d203bbffdc3b6",
+        "android_client_info": {
+          "package_name": "com.example.next_cut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64dHL3yFNQGzdo44TpyXmHYK9bEPNcWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
